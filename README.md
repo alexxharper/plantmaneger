@@ -1,7 +1,6 @@
 <h1 align="center" >
   <img src="./assets/favicon.png" alt="PlantManeger" width="50" height="50" />  
 </h1>
-<hr>
 <h1 align="center"> 
   Plant Maneger
 </h1>
